@@ -1,1 +1,1 @@
-# api_tests_for_beer_rule
+# API tests for beer rule.
